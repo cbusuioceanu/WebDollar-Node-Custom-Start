@@ -1,6 +1,6 @@
 # WebDollar-Node-Custom-Start
 
-A simple 1, 2, 3 way to start a Node for WebDollar!
+A simple 1, 2, 3 way to start a Full Node for WebDollar!
 
 #### 1. git clone https://github.com/cbusuioceanu/WebDollar-Node-Custom-Start.git
 #### 2. execute: ```bash custom_start.sh```

@@ -11,3 +11,5 @@ A simple 1, 2, 3 way to start a Full Node for WebDollar!
 
 #### 1. If you get a permission denied message when running ./custom_start.sh, run the command:
 ```chmod +x custom_start.sh```
+
+<img src="https://webdollarvpn.io/img/webdollar-custom-start-img1.jpg" alt="WebDollar Custom_start.sh nodes image 1"/>

@@ -1,4 +1,4 @@
-# WebDollar-Node-Custom-Start [![Build Status](https://travis-ci.org/cbusuioceanu/WebDollar-Node-Custom-Start.svg?branch=master)](https://travis-ci.org/cbusuioceanu/WebDollar-Node-Custom-Start)
+# WebDollar Node Custom Start [![Build Status](https://travis-ci.org/cbusuioceanu/WebDollar-Node-Custom-Start.svg?branch=master)](https://travis-ci.org/cbusuioceanu/WebDollar-Node-Custom-Start)
 
 A simple 1, 2, 3 way to start a Full Node for WebDollar!
 
